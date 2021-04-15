@@ -1,0 +1,3 @@
+﻿Ayşe	Şimşek	10
+Mustafa	Şimşek	10
+denemeAd	denemeSoyad	6
